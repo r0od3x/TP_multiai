@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[oc]
+*.pyo
+build/
+dist/
+wheels/
+*.egg-info/
+
+# Virtual environment
+.venv/
+
+# Environment variables
+.env
+
+# ChromaDB vector store (local data, can be rebuilt)
+store/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# uv
+.python-version

@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[oc]
+*.pyc
+
+# Virtual environments
+.venv/
+
+# Environment variables
+.env
+
+# uv
+.python-version
+uv.lock
+
+# LangGraph
+.langgraph_api/

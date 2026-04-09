@@ -1,0 +1,19 @@
+[project]
+name = "tp3"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "ipykernel>=7.2.0",
+    "ipython>=9.12.0",
+    "langchain>=1.2.14",
+    "langchain-experimental>=0.4.1",
+    "langchain-ollama>=1.0.1",
+    "langchain-openai>=1.1.12",
+    "langchain-tavily>=0.2.17",
+    "langgraph>=1.1.4",
+    "langgraph-cli[inmem]>=0.4.21",
+    "markdown>=3.10.2",
+    "python-dotenv>=1.2.2",
+]
