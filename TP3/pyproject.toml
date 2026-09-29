@@ -1,13 +1,15 @@
 [project]
 name = "tp3"
 version = "0.1.0"
-description = "Add your description here"
+description = "Agentic RAG and tool-using agents with LangChain / LangGraph"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "chromadb>=1.5.5",
     "ipykernel>=7.2.0",
     "ipython>=9.12.0",
     "langchain>=1.2.14",
+    "langchain-community>=0.4.1",
     "langchain-experimental>=0.4.1",
     "langchain-ollama>=1.0.1",
     "langchain-openai>=1.1.12",

@@ -1,7 +1,7 @@
 [project]
 name = "aiagents"
 version = "0.1.0"
-description = "Add your description here"
+description = "Prompt engineering for multi-agent systems (OpenAI, Ollama, Groq)"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
